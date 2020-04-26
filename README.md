@@ -1,5 +1,5 @@
 # blog
-python manage.py startapp 
+python manage.py startapp blog
 
 python manage.py makemigrations
 
