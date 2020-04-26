@@ -1,5 +1,5 @@
 # blog
-python manage.py startapp news создание участка проекта
+python manage.py startapp 
 
 python manage.py makemigrations
 
